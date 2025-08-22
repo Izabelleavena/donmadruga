@@ -1319,8 +1319,8 @@
 }
 
 .nav-link.btn {
-  background-color: var(--walsh--red);
-  color: var(--walsh--white);
+  background-color: var(--walsh--white);
+  color: var(--walsh--green);
   border-radius: 999em;
   margin-top: 2vh;
   padding: .6em .9em;
@@ -1375,7 +1375,7 @@
 
 .close-btn-wrapper {
   z-index: 5;
-  background-color: var(--walsh--yellow);
+  background-color: var(--walsh--white);
   opacity: 1;
   color: #000;
   border-radius: 999em;
@@ -1387,7 +1387,7 @@
 }
 
 .close-btn-wrapper:hover {
-  background-color: var(--walsh--red);
+  background-color: var(--walsh--black);
   color: var(--walsh--white);
   transform: scale(1.2);
 }
@@ -1400,7 +1400,7 @@
 
 .nav-gradient-bg {
   z-index: 0;
-  background-color: var(--walsh--orange);
+  background-color: var(--walsh--green);
   width: 100%;
   height: 100%;
   position: absolute;
@@ -1894,7 +1894,7 @@
   }
 
   .img1 {
-    display: none;
+ 
   }
 
   .image-23.mobile {
